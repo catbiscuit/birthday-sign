@@ -1,7 +1,7 @@
 name: BirthDaySign
 on:
   schedule:
-    - cron: '18 20 * * *'
+    - cron: '17 8 * * *'
   workflow_dispatch:
 
 jobs:
